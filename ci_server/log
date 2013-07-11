@@ -1,0 +1,270 @@
+2013-06-26 18:47:55   service start succees
+2013-06-26 19:11:13   service start succees
+2013-06-26 19:28:29   HTC T528w Connected
+2013-06-26 19:43:26   service start succees
+2013-06-26 19:43:34   HTC T528w Connected
+2013-06-26 20:34:11   service start succees
+2013-06-26 20:34:13   HTC T528w Connected
+2013-06-26 20:37:27   service start succees
+2013-06-26 20:39:19   HTC T528w Connected
+2013-06-26 20:49:56   service start succees
+2013-06-26 20:49:58   HTC T528w Connected
+2013-06-26 20:50:06   connect exception || disconnet
+2013-06-26 20:57:45   service start succees
+2013-06-26 20:57:50   HTC T528w Connected
+2013-06-26 20:57:56   connect exception || disconnet
+2013-06-26 20:58:06   HTC T528w Connected
+2013-06-26 20:58:12   connect exception || disconnet
+2013-06-26 20:58:19   HTC T528w Connected
+2013-06-26 20:58:27   connect exception || disconnet
+2013-06-26 20:58:32   HTC T528w Connected
+2013-06-26 20:58:40   connect exception || disconnet
+2013-06-26 20:58:46   HTC T528w Connected
+2013-06-26 20:58:52   connect exception || disconnet
+2013-06-26 20:59:03   HTC T528w Connected
+2013-06-26 21:02:00   service start succees
+2013-06-26 21:02:07   HTC T528w Connected
+2013-06-26 21:18:47   HTC T528w disconnect or connect exception
+2013-06-26 21:18:57   HTC T528w Connected
+2013-06-26 21:19:01   HTC T528w disconnect or connect exception
+2013-07-01 00:10:32   service start succees
+2013-07-01 00:13:30   HTC T528w Connected
+2013-07-01 00:26:55   execute openBrowser command
+2013-07-01 00:28:13   HTC T528w disconnect or connect exception
+2013-07-01 00:32:58   connect exception
+2013-07-01 00:33:02   HTC T528w Connected
+2013-07-01 00:33:04   HTC T528w disconnect or connect exception
+2013-07-01 00:46:04   service start succees
+2013-07-01 00:46:19   connect exception
+2013-07-01 00:46:24   HTC T528w Connected
+2013-07-01 00:46:56   execute openBrowser command
+2013-07-01 00:47:06   execute openBrowser command
+2013-07-01 00:48:04   execute openBrowser command
+2013-07-01 00:48:47   HTC T528w disconnect or connect exception
+2013-07-09 00:26:16   service start succees
+2013-07-09 00:33:56   HTC T528w Connected
+2013-07-09 01:09:15   HTC T528w disconnect or connect exception
+2013-07-09 01:12:29   service start succees
+2013-07-09 01:12:54   execute openBrowser command
+2013-07-09 01:14:54   service start succees
+2013-07-09 01:22:10   execute openBrowser command
+2013-07-09 01:38:27   service start succees
+2013-07-09 01:38:36   execute openBrowser command
+2013-07-09 01:38:36   Execution failed
+2013-07-09 01:40:36   The port has binded by other program
+2013-07-09 01:45:08   HTC T528w Connected
+2013-07-09 01:45:30   execute openBrowser command
+2013-07-09 01:45:30   Execution failed
+2013-07-09 01:45:56   HTC T528w disconnect or connect exception
+2013-07-09 01:47:15   service start succees
+2013-07-09 01:48:30   service start succees
+2013-07-09 01:48:47   HTC T528w Connected
+2013-07-09 01:48:59   execute openBrowser command
+2013-07-09 01:48:59   Execution failed
+2013-07-09 01:50:35   execute openBrowser command
+2013-07-09 01:50:35   Execution failed
+2013-07-09 01:53:25   service start succees
+2013-07-09 01:55:21   HTC T528w Connected
+2013-07-09 01:56:36   execute openBrowser command
+2013-07-09 01:58:05   Execution failed
+2013-07-09 01:58:53   service start succees
+2013-07-09 01:59:38   HTC T528w Connected
+2013-07-09 02:00:27   execute openBrowser command
+2013-07-09 02:00:40   Execution failed
+2013-07-09 02:00:52   The port has binded by other program
+2013-07-09 02:01:14   execute openBrowser command
+2013-07-09 02:13:21   service start succees
+2013-07-09 02:13:40   execute openBrowser command
+2013-07-09 02:13:40   Execution failed(may be disconnned)
+2013-07-09 02:14:03   HTC T528w Connected
+2013-07-09 02:14:36   execute openBrowser command
+2013-07-09 02:14:51   HTC T528w disconnect or connect exception
+2013-07-09 02:14:52   HTC T528w Connected
+2013-07-09 02:14:55   execution success!
+2013-07-09 02:15:46   execute openBrowser command
+2013-07-09 02:15:57   Execution failed(may be disconnned)
+2013-07-09 02:16:17   service start succees
+2013-07-09 02:16:27   HTC T528w Connected
+2013-07-09 02:16:37   execute openBrowser command
+2013-07-09 02:16:37   execution success!
+2013-07-09 02:16:48   HTC T528w disconnect or connect exception
+2013-07-09 02:16:49   HTC T528w Connected
+2013-07-09 02:18:04   service start succees
+2013-07-09 02:18:24   execute openBrowser command
+2013-07-09 02:19:15   Execution failed(may be disconnned)
+2013-07-09 02:19:26   HTC T528w Connected
+2013-07-09 02:19:52   execute openBrowser command
+2013-07-09 02:21:02   HTC T528w disconnect or connect exception
+2013-07-09 02:23:06   service start succees
+2013-07-09 02:23:11   HTC T528w Connected
+2013-07-09 02:24:05   execute openBrowser command
+2013-07-09 02:27:48   service start succees
+2013-07-09 02:28:16   execute openBrowser command
+2013-07-09 02:28:30   Execution failed(may be disconnned)
+2013-07-09 02:28:36   HTC T528w Connected
+2013-07-09 02:28:57   execute openBrowser command
+2013-07-09 02:30:53   HTC T528w disconnect or connect exception
+2013-07-09 02:34:27   service start succees
+2013-07-09 02:34:32   HTC T528w Connected
+2013-07-09 02:34:46   execute openBrowser command
+2013-07-09 02:34:46   execution success!
+2013-07-09 02:36:22   execute openBrowser command
+2013-07-09 02:36:22   execution success!
+2013-07-09 02:40:28   HTC T528w disconnect or connect exception
+2013-07-09 02:40:53   service start succees
+2013-07-09 02:40:59   HTC T528w Connected
+2013-07-09 02:41:07   execute openBrowser command
+2013-07-09 02:41:07   execution success!
+2013-07-09 02:41:21   execute openBrowser command
+2013-07-09 02:41:21   execution success!
+2013-07-09 02:41:34   execute openBrowser command
+2013-07-09 02:41:34   execution success!
+2013-07-09 02:52:35   service start succees
+2013-07-09 02:52:47   HTC T528w Connected
+2013-07-09 02:53:26   execute openBrowser command
+2013-07-09 02:53:26   execution success!
+2013-07-09 02:54:44   execute openBrowser command
+2013-07-09 02:54:44   execution success!
+2013-07-09 02:55:44   execute openBrowser command
+2013-07-09 02:55:44   execution success!
+2013-07-09 02:56:06   execute openBrowser command
+2013-07-09 02:56:06   execution success!
+2013-07-09 02:56:35   HTC T528w disconnect or connect exception
+2013-07-09 03:01:18   service start succees
+2013-07-09 03:01:27   execute openBrowser command
+2013-07-09 03:01:27   Execution failed(may be disconnned)
+2013-07-09 03:01:50   HTC T528w Connected
+2013-07-09 03:02:01   execute openBrowser command
+2013-07-09 03:02:01   execution success!
+2013-07-09 03:02:27   execute openBrowser command
+2013-07-09 03:02:27   execution success!
+2013-07-09 03:03:02   execute openBrowser command
+2013-07-09 03:03:02   execution success!
+2013-07-09 03:03:50   execute openBrowser command
+2013-07-09 03:03:50   execution success!
+2013-07-09 03:04:14   HTC T528w disconnect or connect exception
+2013-07-09 03:04:20   HTC T528w Connected
+2013-07-09 03:05:09   HTC T528w disconnect or connect exception
+2013-07-09 03:05:21   service start succees
+2013-07-09 03:05:51   HTC T528w Connected
+2013-07-09 03:06:06   execute openBrowser command
+2013-07-09 03:06:06   execution success!
+2013-07-09 03:06:18   execute openBrowser command
+2013-07-09 03:06:18   execution success!
+2013-07-09 03:06:30   execute openBrowser command
+2013-07-09 03:06:30   execution success!
+2013-07-09 03:06:51   execute openBrowser command
+2013-07-09 03:06:51   execution success!
+2013-07-09 03:07:35   HTC T528w disconnect or connect exception
+2013-07-09 03:08:04   service start succees
+2013-07-09 03:08:08   HTC T528w Connected
+2013-07-09 03:08:17   execute openBrowser command
+2013-07-09 03:08:17   execution success!
+2013-07-09 03:08:27   execute openBrowser command
+2013-07-09 03:08:27   execution success!
+2013-07-09 03:08:37   execute openBrowser command
+2013-07-09 03:08:37   execution success!
+2013-07-09 03:09:02   execute openBrowser command
+2013-07-09 03:09:02   execution success!
+2013-07-09 12:19:18   service start succees
+2013-07-09 12:20:29   HTC T528w Connected
+2013-07-09 12:20:56   execute openBrowser command
+2013-07-09 12:21:06   execution success!
+2013-07-09 12:21:22   execute openBrowser command
+2013-07-09 12:21:22   execution success!
+2013-07-09 12:21:50   HTC T528w disconnect or connect exception
+2013-07-09 12:22:53   execute openBrowser command
+2013-07-09 12:29:46   service start succees
+2013-07-09 12:29:58   can't find mobiel that meet the filter conditions!
+2013-07-09 12:30:21   The port has binded by other program
+2013-07-09 12:30:43   can't find mobiel that meet the filter conditions!
+2013-07-09 12:34:20   service start succees
+2013-07-09 12:34:27   can't find mobiel that meet the filter conditions!
+2013-07-09 12:35:11   service start succees
+2013-07-09 12:35:45   service start succees
+2013-07-09 12:35:53   service start succees
+2013-07-09 12:36:33   service start succees
+2013-07-09 12:36:41   service start succees
+2013-07-09 12:36:50   execute openBrowser command
+2013-07-09 12:36:59   can't find mobiel that meet the filter conditions!
+2013-07-09 12:38:24   service start succees
+2013-07-09 12:38:30   HTC T528w Connected
+2013-07-09 12:38:57   execute openBrowser command
+2013-07-09 12:38:57   execution success!
+2013-07-09 12:39:26   execute openBrowser command
+2013-07-09 12:39:26   execution success!
+2013-07-09 12:40:38   HTC T528w disconnect or connect exception
+2013-07-09 12:41:28   HTC T528w Connected
+2013-07-09 12:41:55   execute openBrowser command
+2013-07-09 12:45:14   Execution failed(may be disconnned)
+2013-07-09 12:45:26   execute openBrowser command
+2013-07-09 12:47:13   Execution failed(may be disconnned)
+2013-07-09 12:47:28   execute openBrowser command
+2013-07-09 12:50:51   HTC T528w disconnect or connect exception
+2013-07-09 12:50:55   Execution failed(may be disconnned)
+2013-07-09 12:51:18   service start succees
+2013-07-09 12:51:33   execute openBrowser command
+2013-07-09 12:51:33   can't find mobiel that meet the filter conditions!
+2013-07-09 12:51:40   HTC T528w Connected
+2013-07-09 12:51:56   execute openBrowser command
+2013-07-09 12:53:59   execution success!
+2013-07-09 16:19:26   service start succees
+2013-07-09 16:19:31   HTC T528w Connected
+2013-07-09 16:19:52   execute openBrowser command
+2013-07-09 16:19:52   execution success!
+2013-07-09 16:20:13   execute openBrowser command
+2013-07-09 16:20:13   execution success!
+2013-07-09 16:25:03   HTC T528w disconnect or connect exception
+2013-07-09 16:25:31   The port has binded by other program
+2013-07-09 16:31:41   service start succees
+2013-07-09 16:31:48   execute openBrowser command
+2013-07-09 16:31:48   can't find mobiel that meet the filter conditions!
+2013-07-09 16:32:02   HTC T528w Connected
+2013-07-09 16:32:19   execute openBrowser command
+2013-07-09 16:32:19   execution success!
+2013-07-09 16:32:41   execute openBrowser command
+2013-07-09 16:32:41   execution success!
+2013-07-09 16:33:22   HTC T528w disconnect or connect exception
+2013-07-09 16:35:24   HTC T528w Connected
+2013-07-09 16:35:58   execute openBrowser command
+2013-07-09 16:36:54   Execution failed(may be disconnned)
+2013-07-09 16:41:06   service start succees
+2013-07-09 16:41:21   HTC T528w Connected
+2013-07-09 16:41:38   execute openBrowser command
+2013-07-09 16:41:38   execution success!
+2013-07-09 16:41:56   execute openBrowser command
+2013-07-09 16:41:56   execution success!
+2013-07-09 16:42:25   HTC T528w disconnect or connect exception
+2013-07-09 16:42:47   HTC T528w Connected
+2013-07-09 16:43:18   execute openBrowser command
+2013-07-09 16:43:35   execution success!
+2013-07-09 16:44:25   HTC T528w disconnect or connect exception
+2013-07-09 16:44:31   HTC T528w Connected
+2013-07-09 16:45:15   execute openBrowser command
+2013-07-09 16:45:15   execution success!
+2013-07-09 16:45:47   HTC T528w disconnect or connect exception
+2013-07-09 16:45:53   HTC T528w Connected
+2013-07-09 16:46:13   service start succees
+2013-07-09 16:46:26   HTC T528w Connected
+2013-07-09 16:46:35   execute openBrowser command
+2013-07-09 16:46:35   execution success!
+2013-07-09 16:54:30   HTC T528w disconnect or connect exception
+2013-07-09 16:54:36   HTC T528w Connected
+2013-07-10 16:53:46   service start success
+2013-07-10 17:00:00   HTC T528w Connected
+2013-07-10 17:16:39   HTC T528w disconnect or connect exception
+2013-07-10 17:22:34   HTC T528w Connected
+2013-07-10 17:32:31   HTC T528w disconnect or connect exception
+2013-07-10 17:32:33   HTC T528w Connected
+2013-07-10 17:33:25   HTC T528w disconnect or connect exception
+2013-07-10 17:33:29   HTC T528w Connected
+2013-07-10 17:36:25   HTC T528w disconnect or connect exception
+2013-07-10 20:15:44   service start success
+2013-07-10 20:16:09   HTC T528w Connected
+2013-07-10 20:16:23   execute openBrowser command
+2013-07-10 20:16:23   execution success!
+2013-07-10 20:16:55   execute openBrowser command
+2013-07-10 20:16:55   execution success!
+2013-07-10 20:18:08   HTC T528w disconnect or connect exception
+2013-07-10 20:18:26   HTC T528w Connected
+2013-07-10 20:18:31   HTC T528w disconnect or connect exception
